@@ -10,6 +10,6 @@ Another major issue I found was the structure of the css. I had to extensively r
 
 After I made all the necessary corrections I went to the website and extensively tested every aspect of it. I did this to ensure Horiseon has no problems arise in the near future. 
 
-![Getting Started](assets\images\Screenshot (6).png)
+<img src="assets\images\Screenshot (6).png" alt="screenshot">
 
 [Horiseon](https://diirtydog.github.io/challenge-02/)
