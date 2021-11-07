@@ -12,4 +12,4 @@ After I made all the necessary corrections I went to the website and extensively
 
 <img src="assets\images\Screenshot (6).png" alt="screenshot">
 
-[Horiseon](https://diirtydog.github.io/challenge-02/)
+[Horiseon](https://diirtydog.github.io/Horiseon-Update/)
