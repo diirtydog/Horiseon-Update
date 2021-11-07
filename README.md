@@ -9,3 +9,6 @@ In the process of updating the divs I also noticed that none of the images conta
 Another major issue I found was the structure of the css. I had to extensively restructure and label all aspects of the css in order to deliver a prodoct that was free of repetitive elements. This will help with the future development of thier website as our technology advances even further than it is today. It essentially give the next developer a better template to work off of. This also helped me as a developer get a grasp on the importance of proper structure within the css files.
 
 After I made all the necessary corrections I went to the website and extensively tested every aspect of it. I did this to ensure Horiseon has no problems arise in the near future. 
+
+![Screenshot].\assets\images\Screenshot (6).png)
+[Horiseon](https://diirtydog.github.io/challenge-02/)
